@@ -2,24 +2,18 @@
     {
         "UplineAgentCode": "SFG0023055",
         "DownlineAgentCode": "SFG0028552",
-        "DownlineLevel": "1",
-        "InBaseShopInd": "1",
         "UplineAgentEmail": "sfg.fbrenesagency@gmail.com",
         "DownlineAgentEmail": "Aubreyc151@gmail.com"
     },
     {
         "UplineAgentCode": "SFG0023055",
         "DownlineAgentCode": "SFG0028256",
-        "DownlineLevel": "1",
-        "InBaseShopInd": "1",
         "UplineAgentEmail": "sfg.fbrenesagency@gmail.com",
         "DownlineAgentEmail": "sfg.bbrenes@gmail.com"
     },
     {
         "UplineAgentCode": "SFG0023055",
         "DownlineAgentCode": "SFG0023176",
-        "DownlineLevel": "2",
-        "InBaseShopInd": "0",
         "UplineAgentEmail": "sfg.fbrenesagency@gmail.com",
         "DownlineAgentEmail": "c.david.hernandez.1969@gmail.com"
     }
